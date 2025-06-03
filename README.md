@@ -18,6 +18,6 @@ I’m fluent in English, a native Portuguese speaker (European), and also a nati
 
 ## 📫 Contact
 
-- 📄 [My CV (PDF)](https://drive.proton.me/urls/YFEV9XXYVC#uUB23fHu22Mo)  
+- 📄 [My CV (PDF)](https://drive.proton.me/urls/WV1YAPSBR0#2TGV2zMOH8Vw)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fernandotona/)  
 - ✉️ [Send me an email](mailto:fernando.tona.dev@proton.me)
