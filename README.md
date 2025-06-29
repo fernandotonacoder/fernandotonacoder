@@ -3,22 +3,44 @@
 **Full Stack Software Developer**  
 .NET/C# | SQL | TypeScript | React | Azure | Agile | Clean Code
 
-Hi, I’m Fernando — a full-stack developer with a track record of building reliable backend systems, intuitive frontends, and everything in between — especially in ERP and enterprise environments. I work across .NET/C#, C++, TypeScript, React, SQL, and Azure — from modern cloud-native apps to legacy enterprise systems.
+Hi, I’m Fernando — a Software Developer and musician.
 
-I’m a problem-solver with a musician’s discipline — bringing the same focus, creativity, and attention to detail from my past career in classical music education into software engineering.
+I’ve worked across both cloud-native and legacy enterprise systems, contributing to a variety of backend and frontend projects.
 
-I’m fluent in English, a native Portuguese speaker (European), and also a native Spanish speaker (Venezuelan). My international background helps me collaborate smoothly across multicultural teams and time zones — maybe that’s why I love airports? 🤔
+---
 
-Let’s connect if you value self-driven problem-solvers who see tech as equal parts responsibility, creativity, and fun — and who’d rather ask “What’s next?” than wait to be told.
+## 🚀 Core Skills
 
-## 🧰 Tech Stack
+Here are the technologies I work with most:
 
-- **Languages:** C#, TypeScript, JavaScript, SQL, C++, Java  
-- **Frameworks/Tools:** .NET, React, Azure DevOps, TFS, Git  
-- **Practices:** Clean Code, SOLID, TDD/BDD, CI/CD, Agile/Scrum  
-- **Cloud:** Azure (IaaS/PaaS/SaaS)
+- **Languages**: C#, C++, JavaScript, TypeScript, SQL  
+- **Frameworks**: .NET, ASP.NET Core, Entity Framework, React, Node.js  
+- **Cloud (Azure)**: Functions, Service Bus, App Service, Key Vault, Application Insights  
+- **CI/CD**: Azure DevOps, Pipelines, TFS, Git  
+- **Testing**: MSTest, xUnit, NUnit, CppUnit, Jest  
+- **Databases**: SQL Server, PostgreSQL  
+- **IDEs & Tools**: Visual Studio, VS Code, Postman, SSMS, pgAdmin
+
+---
+
+## 🧰 Also Familiar With
+
+I also have experience with:
+
+Java, C, Express, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, TestCafe, JMeter, CosmosDB, SQLite, MySQL/MariaDB, JetBrains Rider, IntelliJ IDEA, Dapper, Docker
+
+---
+
+## 💡 Soft Skills & Languages
+
+As a musician, composer, and former guitar teacher, I bring creativity, precision, vitality, and a rigorous, methodical approach rooted in discipline and constant learning to my software development career. True perfection in what we do is unattainable. Yet, some things will always be closer to perfection than others, depending on our will.
+
+I'm professionally fluent in **English**, native in **Portuguese (European)** and **Spanish (LATAM)**, and elementary in **French**.
+
+---
 
 ## 📫 Contact
+Feel free to connect and reach out.
 
 - 📄 [My CV (PDF)](https://drive.proton.me/urls/15TE5PTP3M#VCsRQUGxixvT)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fernandotona/)  
