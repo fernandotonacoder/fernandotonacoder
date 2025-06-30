@@ -27,7 +27,7 @@ Here are the technologies I work with most:
 
 I also have experience with:
 
-Java, C, Express, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, TestCafe, JMeter, CosmosDB, SQLite, MySQL/MariaDB, JetBrains Rider, IntelliJ IDEA, Dapper, Docker
+Java, C, Express, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, TestCafe, JMeter, CosmosDB, SQLite, MySQL/MariaDB, JetBrains Rider, IntelliJ IDEA, Docker
 
 ---
 
