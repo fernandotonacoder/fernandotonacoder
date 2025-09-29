@@ -13,11 +13,11 @@ I’ve worked across both cloud-native and legacy enterprise systems, contributi
 
 Here are the technologies I work with most:
 
-- **Languages**: C#, C++, JavaScript, TypeScript, SQL  
-- **Frameworks**: .NET, ASP.NET Core, Entity Framework, React, Node.js  
-- **Cloud (Azure)**: Functions, Service Bus, App Service, Key Vault, Application Insights  
-- **CI/CD**: Azure DevOps, Pipelines, TFS, Git  
-- **Testing**: MSTest, xUnit, NUnit, CppUnit, Jest  
+- **Languages**: C#, SQL, C++  
+- **Frameworks**: .NET, ASP.NET Core, Entity Framework
+- **Cloud**: Azure
+- **CI/CD**: Azure DevOps, Git, TFS  
+- **Testing**: MSTest, xUnit, NUnit, CppUnit
 - **Databases**: SQL Server, PostgreSQL  
 - **IDEs & Tools**: Visual Studio, VS Code, Postman, SSMS, pgAdmin
 
@@ -27,7 +27,7 @@ Here are the technologies I work with most:
 
 I also have experience with:
 
-Java, C, Express, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, TestCafe, JMeter, CosmosDB, SQLite, MySQL/MariaDB, JetBrains Rider, IntelliJ IDEA, Docker
+React, JavaScript, TypeScript, Java, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, Jest, TestCafe, JMeter, CosmosDB, Oracle DB, Docker, JetBrains Rider, IntelliJ IDEA
 
 ---
 
@@ -45,3 +45,4 @@ Feel free to connect and reach out.
 - 📄 [My CV (PDF)](https://drive.proton.me/urls/15TE5PTP3M#VCsRQUGxixvT)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fernandotona/)  
 - ✉️ [Send me an email](mailto:fernando.tona.dev@proton.me)
+- 🌐 [Developer Website](https://fernandotonacoder.github.io/)
