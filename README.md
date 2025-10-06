@@ -69,8 +69,6 @@ Here are the technologies I work with most:
 
 ## Also Familiar With
 
-I also have experience with:
-
 React, JavaScript, TypeScript, Java, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, Jest, TestCafe, JMeter, CosmosDB, Oracle DB, Docker, JetBrains Rider, IntelliJ IDEA
 
 ---
