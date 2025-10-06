@@ -44,7 +44,7 @@
 Software Developer | .NET/C# | Azure | Problem-Solver with a Musician’s Discipline
 
 [![Follow on GitHub](https://img.shields.io/github/followers/fernandotonacoder?label=Follow&style=social)](https://github.com/fernandotonacoder)
-[![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=website&style=flat-square&url=https%3A%2F%2Ffernandotonacoder.github.io%2F)](https://fernandotonacoder.github.io/)
+[![Website](https://img.shields.io/badge/visit-website-green?logo=gnometerminal)](https://fernandotonacoder.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fernandotona/)
 
 Hi, I’m Fernando — a Software Developer and musician.
