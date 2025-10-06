@@ -95,12 +95,3 @@ Feel free to connect and reach out.
 fernandotonacoder@protonmail.com
 
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernandotonacoder&show_icons=true&count_private=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandotonacoder&theme=dark" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotonacoder&layout=compact&theme=tokyonight" height="180" />
-</p>
