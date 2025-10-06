@@ -96,17 +96,11 @@ fernandotonacoder@protonmail.com
 
 </div>
 
-<div align="center">
-  <a href="https://github.com/fernandotonacoder">
-    <img src="https://github-readme-stats.vercel.app/api?username=fernandotonacoder&show_icons=true&count_private=true&theme=tokyonight" width="49%" />
-  </a>
-  <a href="https://github.com/fernandotonacoder">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandotonacoder&theme=dark" width="49%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fernandotonacoder&show_icons=true&count_private=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandotonacoder&theme=dark" height="180" />
+</p>
 
-<div align="center">
-  <a href="https://github.com/fernandotonacoder">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotonacoder&layout=compact&theme=tokyonight" width="49%" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotonacoder&layout=compact&theme=tokyonight" height="180" />
+</p>
