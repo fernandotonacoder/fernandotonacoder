@@ -47,12 +47,6 @@ Software Developer | .NET/C# | Azure | Problem-Solver with a Musician’s Discip
 [![Website](https://img.shields.io/website?down_color=red&down_message=offline&label=website&style=flat-square&url=https%3A%2F%2Ffernandotonacoder.github.io%2F)](https://fernandotonacoder.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fernandotona/)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandotonacoder&show_icons=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotonacoder&layout=compact&theme=tokyonight)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=fernandotonacoder&theme=dark)
-
 Hi, I’m Fernando — a Software Developer and musician.
 
 I’ve worked across both cloud-native and legacy enterprise systems, contributing to a variety of backend and frontend projects.
@@ -100,4 +94,10 @@ Feel free to connect and reach out.
 [Developer Website](https://fernandotonacoder.github.io/) |
 fernandotonacoder@protonmail.com
 
+</div>
+
+<div align="center">
+	<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fernandotonacoder&show_icons=true&count_private=true&theme=tokyonight" width="320" style="display:inline-block;margin:6px;" />
+	<img alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fernandotonacoder&theme=dark" width="320" style="display:inline-block;margin:6px;" />
+	<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandotonacoder&layout=compact&theme=tokyonight" width="320" style="display:inline-block;margin:6px;" />
 </div>
