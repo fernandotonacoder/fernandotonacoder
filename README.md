@@ -1,46 +1,27 @@
 # Fernando Tona
 
- <!-- Tech badges: Languages -->
-
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](#)
 [![SQL](https://img.shields.io/badge/SQL-337AB7?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
-
-<!-- Frameworks -->
-
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square)](#)
-
-<!-- Cloud -->
-
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
-
-<!-- CI/CD -->
-
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
 [![TFS](https://img.shields.io/badge/TFS-0078D4?style=flat-square)](#)
-
-<!-- Testing -->
-
 [![MSTest](https://img.shields.io/badge/MSTest-0078D4?style=flat-square)](#)
 [![xUnit](https://img.shields.io/badge/xUnit-0E4A86?style=flat-square&logo=xunit&logoColor=white)](#)
 [![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat-square&logo=nunit&logoColor=white)](#)
 [![CppUnit](https://img.shields.io/badge/CppUnit-00599C?style=flat-square)](#)
-
-<!-- Databases -->
-
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-<!-- IDEs & Tools -->
-
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)](#)
 [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](#)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)](#)
 [![SSMS](https://img.shields.io/badge/SSMS-CC2927?style=flat-square)](#)
 [![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat-square)](#)
+
 Software Developer | .NET/C# | Azure | Problem-Solver with a Musician’s Discipline
 
 [![Follow on GitHub](https://img.shields.io/github/followers/fernandotonacoder?label=Follow&style=social)](https://github.com/fernandotonacoder)
