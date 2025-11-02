@@ -57,19 +57,17 @@ I’ve worked across both cloud-native and legacy enterprise systems, contributi
 
 Here are the technologies I work with most:
 
-- **Languages**: C#, SQL, C++
-- **Frameworks**: .NET, ASP.NET Core, Entity Framework
-- **Cloud**: Azure
-- **CI/CD**: Azure DevOps, Git, TFS
-- **Testing**: MSTest, xUnit, NUnit, CppUnit
-- **Databases**: SQL Server, PostgreSQL
-- **IDEs & Tools**: Visual Studio, VS Code, Postman, SSMS, pgAdmin
+- **Languages, Frameworks & Databases:** C#/.NET, SQL, C++, JavaScript/TypeScript/React, SQL Server, PostgreSQL
+- **CI/CD & Cloud:** Azure, Azure DevOps, Azure Pipelines, Git, GitHub, GitHub Actions, TFS
+- **Testing and Quality tools:** MSTest, xUnit, NUnit, CppUnit, Jest, SonarQube, Mend
+- **IDEs & Tools:** Visual Studio, VS Code, Postman, SSMS, pgAdmin
+- **Practices:** SOLID principles, Clean Code, Unit & Integration Testing, Agile/Scrum
 
 ---
 
 ## Also Familiar With
 
-React, JavaScript, TypeScript, Java, Spring, Dapper, GitHub Actions, TeamCity, Reqnroll (SpecFlow), JUnit, Jest, TestCafe, JMeter, CosmosDB, Oracle DB, Docker, JetBrains Rider, IntelliJ IDEA
+Cosmos DB, Oracle DB, Docker, Dapper, TeamCity, SpecFlow/Reqnroll, JMeter, JetBrains Rider
 
 ---
 
