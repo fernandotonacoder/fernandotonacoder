@@ -85,7 +85,7 @@ I'm professionally fluent in **English**, native in **Portuguese (European)** an
 
 Feel free to connect and reach out.
 
-[My CV (PDF)](https://drive.proton.me/urls/15TE5PTP3M#VCsRQUGxixvT) |
+[My CV (PDF)](https://drive.proton.me/urls/84RW0GAETC#U0bhweOPHsuc) |
 [LinkedIn](https://www.linkedin.com/in/fernandotona/) |
 [Developer Website](https://fernandotonacoder.github.io/) |
 fernandotonacoder@protonmail.com
