@@ -68,7 +68,7 @@ I’ve worked across both cloud-native and legacy enterprise systems, contributi
 
 Here are the technologies I work with most:
 
-- **Languages, Frameworks & Databases:** C#/.NET, SQL, C++, JavaScript/TypeScript/React, SQL Server, PostgreSQL
+- **Languages, Frameworks & Databases:** C#/.NET, SQL, C++, JavaScript/TypeScript/React/Vue, SQL Server, PostgreSQL
 - **CI/CD & Cloud:** Azure, Azure DevOps, Azure Pipelines, Git, GitHub, GitHub Actions, TFS
 - **Testing and Quality tools:** MSTest, xUnit, NUnit, CppUnit, Jest, Vitest, SonarQube, Mend
 - **IDEs & Tools:** Visual Studio, VS Code, Postman, SSMS, pgAdmin
