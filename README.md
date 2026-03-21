@@ -1,6 +1,7 @@
 # Fernando Tona
 
 <!-- Languages -->
+
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
@@ -8,6 +9,7 @@
 [![SQL](https://img.shields.io/badge/SQL-337AB7?style=flat-square&logo=postgresql&logoColor=white)](#)
 
 <!-- Frameworks -->
+
 [![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
 [![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#)
@@ -15,12 +17,14 @@
 [![Dapper](https://img.shields.io/badge/Dapper-4D76A6?style=flat-square)](#)
 
 <!-- Databases -->
+
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![Cosmos DB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](#)
 
 <!-- DevOps & Cloud-->
+
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
 [![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](#)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
@@ -31,6 +35,7 @@
 [![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)](#)
 
 <!-- Testing & Quality -->
+
 [![MSTest](https://img.shields.io/badge/MSTest-0078D4?style=flat-square)](#)
 [![xUnit](https://img.shields.io/badge/xUnit-0E4A86?style=flat-square&logo=xunit&logoColor=white)](#)
 [![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat-square&logo=nunit&logoColor=white)](#)
@@ -46,7 +51,6 @@
 [![Website](https://img.shields.io/badge/visit-website-green?logo=gnometerminal)](https://fernandotonacoder.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/fernandotona/)
 
-
 #### Hi, I'm Fernando — a software developer and musician.
 
 I've worked across both cloud-native and legacy enterprise systems, contributing to a variety of backend and full-stack projects.
@@ -54,24 +58,28 @@ I've worked across both cloud-native and legacy enterprise systems, contributing
 ---
 
 ### Core Skills
-• **Languages:** C#, SQL, C++, JavaScript, TypeScript
-• **Frameworks:** .NET, React, Vue, EF Core, Dapper
-• **Databases:** SQL Server, PostgreSQL, MongoDB
-• **DevOps & Cloud:** Azure, Azure DevOps, Git, GitHub, GitHub Actions, TFS
-• **Testing & Quality:** MSTest, xUnit, NUnit, CppUnit, Jest, Vitest, SonarQube, Mend
-• **Practices:** SOLID, Clean Code, Unit & Integration Testing, Agile / Scrum / SAFe
+
+- **Languages:** C#, SQL, C++, JavaScript, TypeScript
+- **Frameworks:** .NET, React, Vue, EF Core, Dapper
+- **Databases:** SQL Server, PostgreSQL, MongoDB
+- **DevOps & Cloud:** Azure, Azure DevOps, Git, GitHub, GitHub Actions, TFS
+- **Testing & Quality:** MSTest, xUnit, NUnit, CppUnit, Jest, Vitest, SonarQube, Mend
+- **Practices:** SOLID, Clean Code, Unit & Integration Testing, Agile / Scrum / SAFe
 
 ---
 
 ### Also Familiar With
+
 Cosmos DB, Oracle DB, Docker, TeamCity, SpecFlow/Reqnroll, JMeter
 
 ---
 
 ### Soft Skills
+
 As a musician, composer, and former guitar teacher, I bring creativity, precision, vitality, and a rigorous, methodical approach rooted in discipline and constant learning to my software development career. True perfection in what we do is unattainable. Yet, some things will always be closer to perfection than others, depending on our will.
 
 ### Languages
+
 I'm professionally fluent in English, native in Portuguese (European) and Spanish (LATAM), and elementary in French.
 
 ---
@@ -79,6 +87,7 @@ I'm professionally fluent in English, native in Portuguese (European) and Spanis
 <div align="center">
 
 ### Contact
+
 Feel free to connect and reach out.
 
 [My CV (PDF)](https://drive.proton.me/urls/84RW0GAETC#U0bhweOPHsuc) |
