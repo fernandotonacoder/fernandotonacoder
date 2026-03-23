@@ -1,49 +1,65 @@
 # Fernando Tona
 
+<table><tr>
+<td valign="top" width="50%" align="left">
+
 <!-- Languages -->
 
 [![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-337AB7?style=flat-square&logo=postgresql&logoColor=white)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](#)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](#)
-[![SQL](https://img.shields.io/badge/SQL-337AB7?style=flat-square&logo=postgresql&logoColor=white)](#)
-
-<!-- Frameworks -->
-
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
-[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#)
-[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square)](#)
-[![Dapper](https://img.shields.io/badge/Dapper-4D76A6?style=flat-square)](#)
 
 <!-- Databases -->
 
 [![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)](#)
 [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](#)
-[![Cosmos DB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white)](#)
-
-<!-- DevOps & Cloud-->
-
-[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
-[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](#)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
-[![IaC](https://img.shields.io/badge/IaC-2496ED?style=flat-square&logoColor=white)](#)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
-[![TFS](https://img.shields.io/badge/TFS-0078D4?style=flat-square)](#)
-[![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)](#)
 
 <!-- Testing & Quality -->
 
 [![MSTest](https://img.shields.io/badge/MSTest-0078D4?style=flat-square)](#)
 [![xUnit](https://img.shields.io/badge/xUnit-0E4A86?style=flat-square&logo=xunit&logoColor=white)](#)
 [![NUnit](https://img.shields.io/badge/NUnit-512BD4?style=flat-square&logo=nunit&logoColor=white)](#)
-[![CppUnit](https://img.shields.io/badge/CppUnit-00599C?style=flat-square)](#)
 [![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)](#)
 [![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)](#)
 <a href="https://sonarcloud.io/organizations/fernandotonacoder/projects"><img src="https://sonarcloud.io/images/project_badges/sonarcloud-light.svg" alt="SonarCloud" height="20"></a>
 <a href="https://www.mend.io/"><img src="https://www.mend.io/wp-content/uploads/2024/07/Mend-io-logo-color-32px-2.svg" alt="Mend" height="20"></a>
+
+</td>
+<td valign="top" width="50%" align="right">
+
+<!-- Frameworks -->
+
+[![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](#)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](#)
+[![Entity Framework](https://img.shields.io/badge/Entity%20Framework-6DB33F?style=flat-square)](#)
+[![Dapper](https://img.shields.io/badge/Dapper-4D76A6?style=flat-square)](#)
+
+<!-- DevOps & Cloud -->
+
+[![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
+[![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat-square&logo=azure-devops&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#)
+[![TFS](https://img.shields.io/badge/TFS-0078D4?style=flat-square)](#)
+
+<!-- Other relevant -->
+
+[![Vue](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)](#)
+[![CppUnit](https://img.shields.io/badge/CppUnit-00599C?style=flat-square)](#)
+[![Cosmos DB](https://img.shields.io/badge/CosmosDB-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
+[![TeamCity](https://img.shields.io/badge/TeamCity-000000?style=flat-square&logo=teamcity&logoColor=white)](#)
+[![NServiceBus](https://img.shields.io/badge/NServiceBus-0A2840?style=flat-square)](#)
+[![Azure Service Bus](https://img.shields.io/badge/Azure%20Service%20Bus-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)](#)
+[![SpecFlow](https://img.shields.io/badge/SpecFlow%2FReqnroll-4B8BF5?style=flat-square)](#)
+[![JMeter](https://img.shields.io/badge/JMeter-D22128?style=flat-square&logo=apache&logoColor=white)](#)
+
+</td>
+</tr></table>
 
 ## Software Developer | .NET/C# | Azure | Problem-Solver with a Musician’s Discipline
 
@@ -59,18 +75,13 @@ I've worked across both cloud-native and legacy enterprise systems, contributing
 
 ### Core Skills
 
-- **Languages:** C#, SQL, C++, JavaScript, TypeScript
-- **Frameworks:** .NET, React, Vue, EF Core, Dapper
+- **Languages:** C#, SQL, JavaScript, TypeScript
+- **Frameworks:** .NET, React, EF Core, Dapper
 - **Databases:** SQL Server, PostgreSQL, MongoDB
-- **DevOps & Cloud:** Azure, Azure DevOps, Git, GitHub, GitHub Actions, TFS
-- **Testing & Quality:** MSTest, xUnit, NUnit, CppUnit, Jest, Vitest, SonarQube, Mend
+- **DevOps & Cloud:** Azure, Azure DevOps, Git, GitHub, GitHub Actions, Docker, TFS
+- **Testing & Quality:** MSTest, xUnit, NUnit, Jest, Vitest, SonarQube, Mend
 - **Practices:** SOLID, Clean Code, Unit & Integration Testing, Agile / Scrum / SAFe
-
----
-
-### Also Familiar With
-
-Cosmos DB, Oracle DB, Docker, TeamCity, SpecFlow/Reqnroll, JMeter
+- **Other relevant:** Vue, NServiceBus, Azure Service Bus, C++, CppUnit, CosmosDB, TeamCity, SpecFlow/Reqnroll, JMeter
 
 ---
 
